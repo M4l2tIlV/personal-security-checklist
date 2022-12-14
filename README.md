@@ -6,6 +6,8 @@
 <p align="center"><img src="https://i.ibb.co/rGQK71g/personal-security-checklist-6.png" /></p>
 
 *<p align="center">A curated checklist of tips to protect your digital security and privacy</p>*
+*<p align="center">รายการตรวจสอบเคล็ดลับต่างๆ ที่คัดสรรมาเพื่อช่วยปกป้องความปลอดภัย และความเป็นส่วนตัวทางดิจิทัลของคุณ</p>*
+
 
 ### Contents
 
